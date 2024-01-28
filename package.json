@@ -1,0 +1,28 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzkushagra/Learning-React.git"
+  },
+  "author": "kushagra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzkushagra/Learning-React/issues"
+  },
+  "homepage": "https://github.com/itzkushagra/Learning-React#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

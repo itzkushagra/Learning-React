@@ -58,3 +58,14 @@
     display: flex;
     flex-wrap: wrap;
 }
+
+.filter-btn{
+    margin: 10px 0px;
+    cursor: pointer;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+.filter-btn:hover{
+    background-color: blueviolet;
+}

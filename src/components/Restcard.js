@@ -1,14 +1,16 @@
   import { CDN_URL } from "../utils/constants"; //NAMED EXPORT
   
-  const ResCard = ({ info }) => {
-  const { 
+  const ResCard = ( { 
     cloudinaryImageId, 
     name, 
     cuisines, 
     avgRating, 
     sla, 
     costForTwo 
-  } = info;
+  } ) => {
+  console.log(  
+    cloudinaryImageId 
+   )
 
   return (
     <div className="rest-card">

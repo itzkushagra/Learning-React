@@ -69,3 +69,29 @@
 .filter-btn:hover{
     background-color: blueviolet;
 }
+
+.shimmer_container{
+    display: flex;
+}
+.shimmer_card{
+    width: 200px;
+    margin: 20px;
+    height: 400;
+    background-color: rgb(223, 223, 223);
+}
+
+.login{
+    padding: 10px;
+    font-size: 18px;
+}
+.login:hover{
+    background-color: rgb(255, 219, 219);
+}
+
+.search-box{
+
+}
+.filter{
+    background-color: azure;
+    display: flex;
+}

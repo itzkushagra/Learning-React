@@ -37,6 +37,7 @@
     border: 1px solid black;
     margin-top: 5px;
     border-radius: 2px;
+    height: 15px;
 }
 
 .rest_img{
@@ -89,7 +90,7 @@
 }
 
 .search-box{
-
+    
 }
 .filter{
     background-color: azure;
